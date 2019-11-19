@@ -71,7 +71,7 @@ public class GetRefreshToken {
         // Set the access type to offline so that the token can be refreshed.
         // By default, the library will automatically refresh tokens when it
         // can, but this can be turned off by setting
-        // api.adwords.refreshOAuth2Token=false in your ads.properties file.
+        // api.adwords.refreshOAuth2Token=false in your ads.properties file.//libsys-adword
         .setAccessType("offline").build();
 
     String authorizeUrl =
