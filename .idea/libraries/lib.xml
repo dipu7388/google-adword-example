@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-client-1.23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guice-multibindings-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-oauth-client-1.23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-discovery-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guice-assistedinject-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/adwords-axis-4.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ads-lib-axis-4.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-http-client-1.23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxrpc-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-http-client-jackson2-1.23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wsdl4j-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/txw2-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/axis-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencsv-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guice-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ads-lib-4.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
